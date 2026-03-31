@@ -1,8 +1,6 @@
 # RailVQA: A Benchmark and Framework for Efficient Interpretable Visual Cognition in Automatic Train Operation
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Dataset](https://img.shields.io/badge/Dataset-RailVQA--bench-blue)](https://huggingface.co/datasets/xxx)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2603.27112)
 
 > This is the official repository for the paper **"RailVQA: A Benchmark and Framework for Efficient Interpretable Visual Cognition in Automatic Train Operation"**[cite: 2].
 
